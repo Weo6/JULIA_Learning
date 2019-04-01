@@ -1,1 +1,5 @@
-# Flutter Tensorflow Lite Digit Recog
+# Flutter Tensorflow Lite Digit Recognizer
+
+Date: 2020
+
+A Flutter ap
