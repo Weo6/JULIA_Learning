@@ -2,4 +2,4 @@
 
 Date: 2020
 
-A Flutter ap
+A Flutter app that recognizes 
