@@ -14,4 +14,4 @@ A Flutter app that recognizes hand drawn digits - using Tensorflow Lite, and MNI
 * [Kaggle](https://www.kaggle.com/code/puzzleleaf/introduction-to-cnn-keras-0-997-top-6/notebook)
 
 ## Package
-* [tflite](https:/
+* [tflite](https://pub.dev/packages/tflite) : A F
