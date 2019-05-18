@@ -1,1 +1,1 @@
-def loca
+def localProperties = new Properties()
