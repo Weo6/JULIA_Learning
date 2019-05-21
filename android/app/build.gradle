@@ -1,2 +1,2 @@
 def localProperties = new Properties()
-def localPropertiesFile = r
+def localPropertiesFile = rootProject.file('local.prope
