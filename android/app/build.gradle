@@ -6,4 +6,4 @@ if (localPropertiesFile.exists()) {
     }
 }
 
-def flutterRo
+def flutterRoot = localProperties.getP
