@@ -22,4 +22,4 @@ if (flutterVersionName == null) {
 }
 
 apply plugin: 'com.android.application'
-apply from: "$flut
+apply from: "$flutterRoot/packages/flut
