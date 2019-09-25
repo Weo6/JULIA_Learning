@@ -28,4 +28,7 @@ android {
     compileSdkVersion 28
 
     lintOptions {
-        disable 'InvalidPa
+        disable 'InvalidPackage'
+    }
+
+    defaultCo
