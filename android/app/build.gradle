@@ -32,4 +32,4 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.an
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/applica
