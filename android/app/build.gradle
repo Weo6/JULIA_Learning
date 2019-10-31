@@ -36,4 +36,5 @@ android {
         applicationId "com.vikichand.mnistdigitrecognizer"
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode flutter
+        versionCode flutterVersionCode.toInteger()
+        
