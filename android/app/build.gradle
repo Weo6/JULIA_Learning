@@ -41,4 +41,5 @@ android {
     }
 
     buildTypes {
-       
+        release {
+            // TODO
