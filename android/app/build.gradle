@@ -42,4 +42,5 @@ android {
 
     buildTypes {
         release {
-            // TODO: Add your own signing config for 
+            // TODO: Add your own signing config for the release build.
+            // Sign
