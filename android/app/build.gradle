@@ -49,4 +49,5 @@ android {
     }
 
     aaptOptions {
-        noCompre
+        noCompress 'tflite'
+        noCompr
