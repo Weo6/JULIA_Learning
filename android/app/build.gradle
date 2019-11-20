@@ -48,4 +48,5 @@ android {
         }
     }
 
-    aaptOpt
+    aaptOptions {
+        noCompre
