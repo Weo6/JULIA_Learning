@@ -50,4 +50,9 @@ android {
 
     aaptOptions {
         noCompress 'tflite'
-        noCompr
+        noCompress 'lite'
+    }
+}
+
+flutter {
+    
