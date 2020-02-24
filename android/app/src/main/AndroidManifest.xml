@@ -2,4 +2,4 @@
     package="com.vikichand.mnistdigitrecognizer">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
-         In m
+         In most cases you can leave this as-is, but
