@@ -8,4 +8,4 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="mnistdigitrecognizer"
-        android:icon="@mipma
+        android:icon="@mipmap/ic_launcher">
