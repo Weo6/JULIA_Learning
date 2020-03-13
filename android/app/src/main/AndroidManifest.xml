@@ -12,4 +12,5 @@
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
-            android:theme="@sty
+            android:theme="@style/LaunchTheme"
+            a
