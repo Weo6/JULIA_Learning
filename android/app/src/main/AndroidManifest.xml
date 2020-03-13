@@ -13,4 +13,4 @@
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
-            a
+            android:configChanges="orient
