@@ -10,4 +10,4 @@
         android:label="mnistdigitrecognizer"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:nam
+            android:name=".MainActivity"
