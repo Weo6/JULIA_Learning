@@ -13,4 +13,4 @@
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
-            android:configChanges="orient
+            android:configChanges="orientation|keyboardHidden|keyboard|scr
