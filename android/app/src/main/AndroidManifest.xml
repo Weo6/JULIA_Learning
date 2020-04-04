@@ -21,4 +21,4 @@
                  while the Flutter UI initializes. After that, this theme continues
                  to determine the Window background behind the Flutter UI. -->
             <meta-data
-              an
+              android:name="io.flutter.emb
