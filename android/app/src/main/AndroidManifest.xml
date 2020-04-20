@@ -26,4 +26,4 @@
               />
             <!-- Displays an Android View that continues showing the launch screen
                  Drawable until Flutter paints its first frame, then this splash
-                 screen fade
+                 screen fades out. A splash screen is us
