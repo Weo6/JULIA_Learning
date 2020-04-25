@@ -28,4 +28,4 @@
                  Drawable until Flutter paints its first frame, then this splash
                  screen fades out. A splash screen is useful to avoid any visual
                  gap between the end of Android's launch screen and the painting of
-                 Flutter
+                 Flutter's first frame. -->
