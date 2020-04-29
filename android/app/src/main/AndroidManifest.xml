@@ -31,4 +31,4 @@
                  Flutter's first frame. -->
             <meta-data
               android:name="io.flutter.embedding.android.SplashScreenDrawable"
-        
+              android:resource="@
