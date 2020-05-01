@@ -33,4 +33,5 @@
               android:name="io.flutter.embedding.android.SplashScreenDrawable"
               android:resource="@drawable/launch_background"
               />
-     
+            <intent-filter>
+   
