@@ -34,4 +34,4 @@
               android:resource="@drawable/launch_background"
               />
             <intent-filter>
-   
+                <action android:name="andr
