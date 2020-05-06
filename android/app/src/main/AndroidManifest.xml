@@ -38,4 +38,5 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <!-- Don't delete
+        <!-- Don't delete the meta-data below.
+         
