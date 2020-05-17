@@ -2,4 +2,4 @@
 <resources>
     <!-- Theme applied to the Android Window while the process is starting -->
     <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
-        <!-- Show a splash scre
+        <!-- Show a splash screen on the activity. A
