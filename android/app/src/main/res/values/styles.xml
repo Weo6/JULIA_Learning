@@ -3,4 +3,5 @@
     <!-- Theme applied to the Android Window while the process is starting -->
     <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
         <!-- Show a splash screen on the activity. Automatically removed when
-             Flutter draws 
+             Flutter draws its first frame -->
+      
