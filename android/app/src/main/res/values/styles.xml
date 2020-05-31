@@ -12,4 +12,4 @@
          running.
          
          This Theme is only used starting with V2 of Flutter's Android embedding. -->
-    <style name="NormalTheme"
+    <style name="NormalTheme" parent="@android:sty
