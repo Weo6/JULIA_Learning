@@ -1,2 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vikichand.mnistdigitr
+    package="com.vikichand.mnistdigitrecognizer">
+    <!-- Flutter n
