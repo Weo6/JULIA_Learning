@@ -1,4 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vikichand.mnistdigitrecognizer">
     <!-- Flutter needs it to communicate with the running application
-         to allow s
+         to allow setting breakpoints, to provide hot 
