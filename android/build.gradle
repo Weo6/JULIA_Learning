@@ -13,3 +13,7 @@ allprojects {
     repositories {
         google()
         jcenter()
+    }
+}
+
+rootProject.bui
