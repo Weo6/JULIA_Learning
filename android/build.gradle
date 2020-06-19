@@ -16,4 +16,5 @@ allprojects {
     }
 }
 
-rootProject.bui
+rootProject.buildDir = '../build'
+subprojects
