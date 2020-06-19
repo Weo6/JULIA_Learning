@@ -17,4 +17,5 @@ allprojects {
 }
 
 rootProject.buildDir = '../build'
-subprojects
+subprojects {
+    project.buildDir = "${ro
