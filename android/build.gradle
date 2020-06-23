@@ -24,4 +24,5 @@ subprojects {
     project.evaluationDependsOn(':app')
 }
 
-task clea
+task clean(type: Delete) {
+    delete rootP
