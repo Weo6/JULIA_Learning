@@ -4,4 +4,4 @@
 
 include ':app'
 
-def localPropertiesFile = new
+def localPropertiesFile = new File(rootProject.proj
