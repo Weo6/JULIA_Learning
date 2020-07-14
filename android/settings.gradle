@@ -8,4 +8,4 @@ def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
 def properties = new Properties()
 
 assert localPropertiesFile.exists()
-localPropertiesFile.w
+localPropertiesFile.withReader("UTF-8") { reader -> propert
