@@ -11,4 +11,4 @@ assert localPropertiesFile.exists()
 localPropertiesFile.withReader("UTF-8") { reader -> properties.load(reader) }
 
 def flutterSdkPath = properties.getProperty("flutter.sdk")
-assert flutterSdkPath != nu
+assert flutterSdkPath != null, "flutter.sdk not set in
