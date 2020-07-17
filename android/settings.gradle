@@ -10,4 +10,4 @@ def properties = new Properties()
 assert localPropertiesFile.exists()
 localPropertiesFile.withReader("UTF-8") { reader -> properties.load(reader) }
 
-def f
+def flutterSdkPath = properties.getProperty("flu
