@@ -5,4 +5,5 @@
   <key>CFBundleDevelopmentRegion</key>
   <string>$(DEVELOPMENT_LANGUAGE)</string>
   <key>CFBundleExecutable</key>
-  <st
+  <string>App</string>
+  <key>CFBu
