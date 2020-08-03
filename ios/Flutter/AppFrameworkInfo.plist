@@ -6,4 +6,5 @@
   <string>$(DEVELOPMENT_LANGUAGE)</string>
   <key>CFBundleExecutable</key>
   <string>App</string>
-  <key>CFBu
+  <key>CFBundleIdentifier</key>
+  <string
