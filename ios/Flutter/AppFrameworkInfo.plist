@@ -9,4 +9,5 @@
   <key>CFBundleIdentifier</key>
   <string>io.flutter.flutter.app</string>
   <key>CFBundleInfoDictionaryVersion</key>
-  <string>6.0</st
+  <string>6.0</string>
+  <key>CFBundleName</key>
