@@ -12,4 +12,5 @@
   <string>6.0</string>
   <key>CFBundleName</key>
   <string>App</string>
-  <key>CFB
+  <key>CFBundlePackageType</key>
+  <st
