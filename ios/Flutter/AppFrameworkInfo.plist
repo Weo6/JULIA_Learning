@@ -13,4 +13,4 @@
   <key>CFBundleName</key>
   <string>App</string>
   <key>CFBundlePackageType</key>
-  <st
+  <string>FMWK</string>
