@@ -6,4 +6,5 @@ ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
 project 'Runner', {
   'Debug' => :debug,
-  'Profile' 
+  'Profile' => :release,
+  'Release
