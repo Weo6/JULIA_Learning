@@ -10,4 +10,5 @@ project 'Runner', {
   'Release' => :release,
 }
 
-def parse_KV_fil
+def parse_KV_file(file, separator='=')
+  file
