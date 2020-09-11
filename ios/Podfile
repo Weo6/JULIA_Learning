@@ -15,4 +15,5 @@ def parse_KV_file(file, separator='=')
   if !File.exists? file_abs_path
     return [];
   end
-  generated_ke
+  generated_key_values = {}
+  skip_line_start_symb
