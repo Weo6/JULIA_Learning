@@ -16,4 +16,5 @@ def parse_KV_file(file, separator='=')
     return [];
   end
   generated_key_values = {}
-  skip_line_start_symb
+  skip_line_start_symbols = ["#", "/"]
+  File.foreach(file
