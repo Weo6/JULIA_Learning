@@ -17,4 +17,5 @@ def parse_KV_file(file, separator='=')
   end
   generated_key_values = {}
   skip_line_start_symbols = ["#", "/"]
-  File.foreach(file
+  File.foreach(file_abs_path) do |line|
+    next
