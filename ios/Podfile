@@ -26,4 +26,4 @@ def parse_KV_file(file, separator='=')
       podpath = File.expand_path("#{path}", file_abs_path)
       generated_key_values[podname] = podpath
     else
-      puts "Inv
+      puts "Invalid plugin specificati
