@@ -29,4 +29,7 @@ def parse_KV_file(file, separator='=')
       puts "Invalid plugin specification: #{line}"
     end
   end
-  
+  generated_key_values
+end
+
+target 
