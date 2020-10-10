@@ -35,4 +35,5 @@ end
 target 'Runner' do
   # Flutter Pod
 
-  copied_flutter_dir
+  copied_flutter_dir = File.join(__dir__, 'Flutter')
+  
