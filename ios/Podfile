@@ -41,4 +41,4 @@ target 'Runner' do
   unless File.exist?(copied_framework_path) && File.exist?(copied_podspec_path)
     # Copy Flutter.framework and Flutter.podspec to Flutter/ to have something to link against if the xcode backend script has not run yet.
     # That script will copy the correct debug/profile/release version of the framework based on the currently selected Xcode configuration.
-    # CocoaPods will not embed the f
+    # CocoaPods will not embed the framework on pod install (before an
