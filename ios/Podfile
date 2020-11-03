@@ -44,4 +44,5 @@ target 'Runner' do
     # CocoaPods will not embed the framework on pod install (before any build phases can generate) if the dylib does not exist.
 
     generated_xcode_build_settings_path = File.join(copied_flutter_dir, 'Generated.xcconfig')
-    unless File.exist?(generated_xco
+    unless File.exist?(generated_xcode_build_settings_path)
+      
