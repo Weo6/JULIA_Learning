@@ -47,4 +47,4 @@ target 'Runner' do
     unless File.exist?(generated_xcode_build_settings_path)
       raise "Generated.xcconfig must exist. If you're running pod install manually, make sure flutter pub get is executed first"
     end
-    generate
+    generated_xcode_build_settings = par
