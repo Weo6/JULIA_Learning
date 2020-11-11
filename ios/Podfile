@@ -48,4 +48,4 @@ target 'Runner' do
       raise "Generated.xcconfig must exist. If you're running pod install manually, make sure flutter pub get is executed first"
     end
     generated_xcode_build_settings = parse_KV_file(generated_xcode_build_settings_path)
-    cached_framework_dir = generated_xcode_build_s
+    cached_framework_dir = generated_xcode_build_settings['FLUTTER_FRAMEWORK_DIR'
