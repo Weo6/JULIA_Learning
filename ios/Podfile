@@ -54,4 +54,4 @@ target 'Runner' do
       FileUtils.cp_r(File.join(cached_framework_dir, 'Flutter.framework'), copied_flutter_dir)
     end
     unless File.exist?(copied_podspec_path)
-      FileUtils.cp(File.join(
+      FileUtils.cp(File.join(cached_framework_dir, 'Flutter.po
