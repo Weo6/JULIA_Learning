@@ -58,4 +58,5 @@ target 'Runner' do
     end
   end
 
-  # Keep pod path relative so it can be chec
+  # Keep pod path relative so it can be checked into Podfile.lock.
+  pod '
