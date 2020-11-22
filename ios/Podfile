@@ -63,4 +63,4 @@ target 'Runner' do
 
   # Plugin Pods
 
-  # Prepare symlinks fo
+  # Prepare symlinks folder. We use symli
