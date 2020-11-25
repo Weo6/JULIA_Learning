@@ -63,4 +63,5 @@ target 'Runner' do
 
   # Plugin Pods
 
-  # Prepare symlinks folder. We use symlinks to avoid having Podfi
+  # Prepare symlinks folder. We use symlinks to avoid having Podfile.lock
+  # referring to 
