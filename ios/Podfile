@@ -69,4 +69,5 @@ target 'Runner' do
   system('mkdir -p .symlinks/plugins')
   plugin_pods = parse_KV_file('../.flutter-plugins')
   plugin_pods.each do |name, path|
-    symlink = File.join('.symlinks', 'pl
+    symlink = File.join('.symlinks', 'plugins', name)
+    File.symlink(
