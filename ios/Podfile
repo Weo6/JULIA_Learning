@@ -72,4 +72,7 @@ target 'Runner' do
     symlink = File.join('.symlinks', 'plugins', name)
     File.symlink(path, symlink)
     pod name, :path => File.join(symlink, 'ios')
- 
+  end
+end
+
+post_install do |installer|
