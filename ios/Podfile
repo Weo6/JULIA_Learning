@@ -76,3 +76,4 @@ target 'Runner' do
 end
 
 post_install do |installer|
+  installer.pods_pr
