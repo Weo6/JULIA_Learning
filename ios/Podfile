@@ -76,4 +76,4 @@ target 'Runner' do
 end
 
 post_install do |installer|
-  installer.pods_pr
+  installer.pods_project.targets.each do |tar
