@@ -1,4 +1,6 @@
 #import <Flutter/Flutter.h>
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : FlutterAppDeleg
+@interface AppDelegate : FlutterAppDelegate
+
+@end
