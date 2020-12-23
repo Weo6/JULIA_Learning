@@ -2,4 +2,5 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Launc
+      "filename" : "LaunchImage.png",
+      "scale" : "1x"
