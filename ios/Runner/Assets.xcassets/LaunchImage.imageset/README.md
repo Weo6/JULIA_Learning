@@ -1,3 +1,3 @@
 # Launch Screen Assets
 
-You can 
+You can customize the launch scre
