@@ -2,4 +2,4 @@
 
 You can customize the launch screen with your own desired assets by replacing the image files in this directory.
 
-You can also do it by opening your Flutter p
+You can also do it by opening your Flutter project's Xcode project with `
