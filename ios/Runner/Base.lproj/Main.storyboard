@@ -8,4 +8,5 @@
         <!--Flutter View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="FlutterViewController" sceneMember
+                <viewController id="BYZ-38-t0r" customClass="FlutterViewController" sceneMemberID="viewController">
+    
