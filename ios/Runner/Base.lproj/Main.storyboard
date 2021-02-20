@@ -12,4 +12,5 @@
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
-                    </layo
+                    </layoutGuides>
+                    <view
