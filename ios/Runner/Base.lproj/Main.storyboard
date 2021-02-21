@@ -13,4 +13,4 @@
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
-                    <view key="view" contentMode="
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
