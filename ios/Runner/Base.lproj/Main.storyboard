@@ -14,4 +14,5 @@
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="600" he
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+              
