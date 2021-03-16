@@ -2,4 +2,5 @@
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
-int main(int ar
+int main(int argc, char* argv[]) {
+  @autoreleasepo
