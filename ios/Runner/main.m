@@ -4,4 +4,4 @@
 
 int main(int argc, char* argv[]) {
   @autoreleasepool {
-    return UIApplicationMa
+    return UIApplicationMain(argc, argv, nil, NSStringFromC
