@@ -122,3 +122,29 @@
 			isa = PBXGroup;
 			children = (
 				97C146F21CF9000F007C117D /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF88208A27A5AD563C0E5605 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3036D9ED6DD46265ED86D005 /* Pods-Runner.debug.xcconfig */,
+				8B040F54D63C4E7539DDF2A4 /* Pods-Runner.release.xcconfig */,
+				CCF8842C3DC0315CC21E5454 /* Pods-Runner.profile.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97C146ED1CF9000F007C117D /* Runner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */;
+			buildPhases = (
+				3F3F647F9ECCB2F41D0D9721 /* [CP] Check Pods Manifest.lock */,
+				9740EEB61CF901F6004384FC /* Run Script */,
+				97C146EA1CF9000F007C117D /* Sources */,
+				97C146EB1CF9000F007C117D /* Frameworks */,
