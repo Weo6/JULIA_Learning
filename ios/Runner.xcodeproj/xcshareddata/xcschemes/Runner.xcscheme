@@ -8,4 +8,5 @@
       <BuildActionEntries>
          <BuildActionEntry
             buildForTesting = "YES"
-            b
+            buildForRunning = "YES"
+   
