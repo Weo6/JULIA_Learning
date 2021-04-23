@@ -12,4 +12,5 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
-            <Bu
+            <BuildableReference
+           
