@@ -19,4 +19,5 @@
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
+         </BuildActionEntry>
     
