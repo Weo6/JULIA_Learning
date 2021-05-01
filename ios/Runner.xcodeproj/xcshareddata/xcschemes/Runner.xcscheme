@@ -23,4 +23,5 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug
+      buildConfiguration = "Debug"
+      selectedDebuggerIdenti
