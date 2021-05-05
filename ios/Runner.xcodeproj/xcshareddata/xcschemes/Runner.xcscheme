@@ -31,4 +31,5 @@
       </Testables>
       <MacroExpansion>
          <BuildableReference
-            BuildableIdentifier = "prim
+            BuildableIdentifier = "primary"
+            BlueprintIden
