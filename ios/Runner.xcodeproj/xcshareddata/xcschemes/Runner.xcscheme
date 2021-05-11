@@ -42,4 +42,5 @@
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration =
+      buildConfiguration = "Debug"
+      selectedDebuggerIden
