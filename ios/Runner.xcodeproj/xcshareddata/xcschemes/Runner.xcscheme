@@ -46,4 +46,5 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
-      use
+      useCustomWorkingDirectory = "NO"
+      ignoresPers
