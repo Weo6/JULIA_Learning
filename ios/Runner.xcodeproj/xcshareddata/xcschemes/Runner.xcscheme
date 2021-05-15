@@ -48,4 +48,5 @@
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
-      debugDocumentVers
+      debugDocumentVersioning = "YES"
+      de
