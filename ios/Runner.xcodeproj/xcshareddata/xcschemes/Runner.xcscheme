@@ -51,4 +51,5 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <Buil
+      <BuildableProductRunnable
+         run
