@@ -50,4 +50,5 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocati
+      allowLocationSimulation = "YES">
+      <Buil
