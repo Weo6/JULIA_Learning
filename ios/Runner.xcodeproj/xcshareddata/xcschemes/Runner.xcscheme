@@ -49,4 +49,5 @@
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
-      debugServiceExtension 
+      debugServiceExtension = "internal"
+      allowLocati
