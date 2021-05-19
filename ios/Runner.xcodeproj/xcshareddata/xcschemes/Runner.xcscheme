@@ -54,4 +54,5 @@
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
-            BuildableIdentifier = "pr
+            BuildableIdentifier = "primary"
+            Blueprin
