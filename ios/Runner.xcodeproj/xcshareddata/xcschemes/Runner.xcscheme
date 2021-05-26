@@ -65,4 +65,5 @@
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      buildCon
+      buildConfiguration = "Profile"
+   
