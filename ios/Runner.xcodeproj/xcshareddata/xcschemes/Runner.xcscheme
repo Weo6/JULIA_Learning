@@ -64,4 +64,5 @@
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
- 
+   <ProfileAction
+      buildCon
