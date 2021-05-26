@@ -66,4 +66,5 @@
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Profile"
-      shouldUseLaunchSche
+      shouldUseLaunchSchemeArgsEnv = "YES"
+    
