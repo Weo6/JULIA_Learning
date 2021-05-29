@@ -69,4 +69,5 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      debugDocumentVers
+      debugDocumentVersioning = "YES">
+      <Build
