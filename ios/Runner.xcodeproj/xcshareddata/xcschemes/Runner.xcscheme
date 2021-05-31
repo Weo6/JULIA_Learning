@@ -72,4 +72,5 @@
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
-         <BuildableR
+         <BuildableReference
+            BuildableIdenti
