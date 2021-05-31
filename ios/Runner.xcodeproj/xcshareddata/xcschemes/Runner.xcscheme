@@ -71,4 +71,5 @@
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
-         runnableDebuggingMode 
+         runnableDebuggingMode = "0">
+         <BuildableR
