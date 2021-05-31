@@ -73,4 +73,5 @@
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
-            BuildableIdenti
+            BuildableIdentifier = "primary"
+            Bl
