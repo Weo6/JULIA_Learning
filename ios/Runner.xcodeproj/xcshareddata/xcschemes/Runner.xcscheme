@@ -82,4 +82,5 @@
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfig
+      buildConfiguration = "Debug">
+   </AnalyzeA
