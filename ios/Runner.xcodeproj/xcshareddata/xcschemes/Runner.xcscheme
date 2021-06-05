@@ -79,4 +79,6 @@
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
-      </BuildableProduct
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <A
