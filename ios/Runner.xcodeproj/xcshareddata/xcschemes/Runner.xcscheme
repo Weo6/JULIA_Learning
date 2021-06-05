@@ -83,4 +83,6 @@
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
-   </AnalyzeA
+   </AnalyzeAction>
+   <ArchiveAction
+     
