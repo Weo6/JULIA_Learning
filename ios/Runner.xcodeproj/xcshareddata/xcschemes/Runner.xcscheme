@@ -81,4 +81,5 @@
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
-   <A
+   <AnalyzeAction
+      buildConfig
