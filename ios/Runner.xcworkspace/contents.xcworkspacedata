@@ -5,4 +5,5 @@
       location = "group:Runner.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group
+      location = "group:Pods/Pods.xcodeproj">
+ 
