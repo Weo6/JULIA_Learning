@@ -1,2 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mnistdigitrecognizer/scree
+import 'package:mnistdigitrecognizer/screens/draw_screen.dart';
+
+void m
