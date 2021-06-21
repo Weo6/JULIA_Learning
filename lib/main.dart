@@ -12,4 +12,5 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Mnist Digit Recognizer',
       debugShowCheckedModeBanner: false,
-  
+      theme: ThemeData(
+        appBar
