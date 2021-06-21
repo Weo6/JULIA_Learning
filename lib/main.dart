@@ -13,4 +13,5 @@ class MyApp extends StatelessWidget {
       title: 'Mnist Digit Recognizer',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        appBar
+        appBarTheme: AppBarTheme(
+          co
