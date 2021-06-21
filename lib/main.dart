@@ -10,4 +10,5 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mnist Digit
+      title: 'Mnist Digit Recognizer',
+      debugShowChecked
