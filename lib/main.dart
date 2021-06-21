@@ -11,4 +11,5 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Mnist Digit Recognizer',
-      debugShowChecked
+      debugShowCheckedModeBanner: false,
+  
