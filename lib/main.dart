@@ -20,4 +20,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.black,
         ),
       ),
-      home: Draw
+      home: DrawScreen(),
+    );
+  }
+}
