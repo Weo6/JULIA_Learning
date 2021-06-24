@@ -101,3 +101,37 @@ class _DrawScreenState extends State<DrawScreen> {
               _points.add(_localPosition);
             });
           }
+        },
+        onPanEnd: (DragEndDetails details) {
+          _points.add(null);
+          _recognize();
+        },
+        child: CustomPaint(
+          painter: DrawingPainter(_points),
+        ),
+      ),
+    );
+  }
+
+  Widget _mnistPreviewImage() {
+    return Container(
+      width: 100,
+      height: 100,
+      color: Colors.black,
+      child: FutureBuilder(
+        future: _previewImage(),
+        builder: (BuildContext _, snapshot) {
+          if (snapshot.hasData) {
+            return Image.memory(
+              snapshot.data,
+              fit: BoxFit.fill,
+            );
+          } else {
+            return Center(
+              child: Text('Error'),
+            );
+          }
+        },
+      ),
+    );
+  }
