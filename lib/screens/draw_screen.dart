@@ -72,3 +72,32 @@ class _DrawScreenState extends State<DrawScreen> {
         child: Icon(Icons.clear),
         onPressed: () {
           setState(() {
+            _points.clear();
+            _prediction.clear();
+          });
+        },
+      ),
+    );
+  }
+
+  Widget _drawCanvasWidget() {
+    return Container(
+      width: Constants.canvasSize + Constants.borderSize * 2,
+      height: Constants.canvasSize + Constants.borderSize * 2,
+      decoration: BoxDecoration(
+        border: Border.all(
+          color: Colors.black,
+          width: Constants.borderSize,
+        ),
+      ),
+      child: GestureDetector(
+        onPanUpdate: (DragUpdateDetails details) {
+          Offset _localPosition = details.localPosition;
+          if (_localPosition.dx >= 0 &&
+              _localPosition.dx <= Constants.canvasSize &&
+              _localPosition.dy >= 0 &&
+              _localPosition.dy <= Constants.canvasSize) {
+            setState(() {
+              _points.add(_localPosition);
+            });
+          }
