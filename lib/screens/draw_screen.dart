@@ -35,3 +35,40 @@ class _DrawScreenState extends State<DrawScreen> {
         children: <Widget>[
           Row(
             children: <Widget>[
+              Expanded(
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Column(
+                    children: <Widget>[
+                      Text(
+                        'MNIST database of handwritten digits',
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      Text(
+                        'The digits have been size-normalized and centered in a fixed-size images (28 x 28)',
+                      )
+                    ],
+                  ),
+                ),
+              ),
+              _mnistPreviewImage(),
+            ],
+          ),
+          SizedBox(
+            height: 10,
+          ),
+          _drawCanvasWidget(),
+          SizedBox(
+            height: 10,
+          ),
+          PredictionWidget(
+            predictions: _prediction,
+          ),
+        ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        child: Icon(Icons.clear),
+        onPressed: () {
+          setState(() {
