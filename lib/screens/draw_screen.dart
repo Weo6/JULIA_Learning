@@ -135,3 +135,19 @@ class _DrawScreenState extends State<DrawScreen> {
       ),
     );
   }
+
+  void _initModel() async {
+    var res = await _recognizer.loadModel();
+  }
+
+  Future<Uint8List> _previewImage() async {
+    return await _recognizer.previewImage(_points);
+  }
+
+  void _recognize() async {
+    List<dynamic> pred = await _recognizer.recognize(_points);
+    setState(() {
+      _prediction = pred.map((json) => Prediction.fromJson(json)).toList();
+    });
+  }
+}
