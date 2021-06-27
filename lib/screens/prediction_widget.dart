@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:mnistdigitrecognizer/models/prediction.dart';
 
-class PredictionWidget exten
+class PredictionWidget extends StatelessWidget {
+  final Lis
