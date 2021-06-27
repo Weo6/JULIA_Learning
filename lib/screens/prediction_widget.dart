@@ -3,3 +3,5 @@ import 'package:mnistdigitrecognizer/models/prediction.dart';
 
 class PredictionWidget extends StatelessWidget {
   final List<Prediction> predictions;
+
+  const PredictionWidget({Key
