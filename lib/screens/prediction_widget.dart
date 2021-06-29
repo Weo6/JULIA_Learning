@@ -4,4 +4,6 @@ import 'package:mnistdigitrecognizer/models/prediction.dart';
 class PredictionWidget extends StatelessWidget {
   final List<Prediction> predictions;
 
-  const PredictionWidget({Key key, this.predictions}) : sup
+  const PredictionWidget({Key key, this.predictions}) : super(key: key);
+
+  Widget _number
