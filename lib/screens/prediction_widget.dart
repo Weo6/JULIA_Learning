@@ -6,4 +6,5 @@ class PredictionWidget extends StatelessWidget {
 
   const PredictionWidget({Key key, this.predictions}) : super(key: key);
 
-  Widget _numberWidget(int num, Prediction 
+  Widget _numberWidget(int num, Prediction prediction) {
+    return Colum
