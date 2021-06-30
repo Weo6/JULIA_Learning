@@ -8,4 +8,6 @@ class PredictionWidget extends StatelessWidget {
 
   Widget _numberWidget(int num, Prediction prediction) {
     return Column(
-      children: <Wi
+      children: <Widget>[
+        Text(
+          '$num'
