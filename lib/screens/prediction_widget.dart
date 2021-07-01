@@ -10,4 +10,5 @@ class PredictionWidget extends StatelessWidget {
     return Column(
       children: <Widget>[
         Text(
-          '$num'
+          '$num',
+          style: TextStyl
