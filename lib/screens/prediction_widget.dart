@@ -13,4 +13,5 @@ class PredictionWidget extends StatelessWidget {
           '$num',
           style: TextStyle(
             fontSize: 60,
-            fontWeight: FontW
+            fontWeight: FontWeight.bold,
+            color: pr
