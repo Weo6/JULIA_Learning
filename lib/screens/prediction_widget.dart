@@ -11,4 +11,6 @@ class PredictionWidget extends StatelessWidget {
       children: <Widget>[
         Text(
           '$num',
-          style: TextStyl
+          style: TextStyle(
+            fontSize: 60,
+     
