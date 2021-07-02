@@ -14,4 +14,5 @@ class PredictionWidget extends StatelessWidget {
           style: TextStyle(
             fontSize: 60,
             fontWeight: FontWeight.bold,
-            color: pr
+            color: prediction == null
+    
