@@ -17,4 +17,4 @@ class PredictionWidget extends StatelessWidget {
             color: prediction == null
                 ? Colors.black
                 : Colors.red.withOpacity(
-                    (prediction.co
+                    (prediction.confidence * 2).clamp(0, 1)
