@@ -19,4 +19,6 @@ class PredictionWidget extends StatelessWidget {
                 : Colors.red.withOpacity(
                     (prediction.confidence * 2).clamp(0, 1).toDouble(),
                   ),
- 
+          ),
+        ),
+        Tex
