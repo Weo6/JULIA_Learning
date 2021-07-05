@@ -21,4 +21,5 @@ class PredictionWidget extends StatelessWidget {
                   ),
           ),
         ),
-        Tex
+        Text(
+          '${prediction == null ? '
