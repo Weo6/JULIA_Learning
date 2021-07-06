@@ -22,4 +22,4 @@ class PredictionWidget extends StatelessWidget {
           ),
         ),
         Text(
-          '${prediction == null ? '
+          '${prediction == null ? '' : prediction.confidence
