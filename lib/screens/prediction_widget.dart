@@ -25,4 +25,6 @@ class PredictionWidget extends StatelessWidget {
           '${prediction == null ? '' : prediction.confidence.toStringAsFixed(3)}',
           style: TextStyle(
             fontSize: 12,
-     
+          ),
+        )
+      ],
