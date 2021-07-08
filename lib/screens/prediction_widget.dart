@@ -31,4 +31,4 @@ class PredictionWidget extends StatelessWidget {
     );
   }
 
-  List<dynami
+  List<dynamic> getPredictionSty
