@@ -28,3 +28,7 @@ class PredictionWidget extends StatelessWidget {
           ),
         )
       ],
+    );
+  }
+
+  List<dynami
