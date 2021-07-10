@@ -33,3 +33,6 @@ class PredictionWidget extends StatelessWidget {
 
   List<dynamic> getPredictionStyles(List<Prediction> predictions) {
     List<dynamic> data = [
+      null,
+      null,
+ 
