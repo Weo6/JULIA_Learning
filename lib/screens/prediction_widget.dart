@@ -41,4 +41,5 @@ class PredictionWidget extends StatelessWidget {
       null,
       null,
       null,
-  
+      null,
+      null
