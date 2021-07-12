@@ -44,4 +44,5 @@ class PredictionWidget extends StatelessWidget {
       null,
       null
     ];
-    predictions?.forEac
+    predictions?.forEach((prediction) {
+      
