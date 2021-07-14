@@ -45,4 +45,4 @@ class PredictionWidget extends StatelessWidget {
       null
     ];
     predictions?.forEach((prediction) {
-      
+      data[prediction.index] = pr
