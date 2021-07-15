@@ -48,4 +48,7 @@ class PredictionWidget extends StatelessWidget {
       data[prediction.index] = prediction;
     });
 
-    
+    return data;
+  }
+
+  @ov
