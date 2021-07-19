@@ -53,4 +53,4 @@ class PredictionWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var styles = getPredi
+    var styles = getPredictionStyles(this.pred
