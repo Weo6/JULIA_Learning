@@ -56,4 +56,6 @@ class PredictionWidget extends StatelessWidget {
     var styles = getPredictionStyles(this.predictions);
 
     return Column(
-      child
+      children: <Widget>[
+        Row(
+         
