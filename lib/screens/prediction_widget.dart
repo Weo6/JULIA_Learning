@@ -58,4 +58,5 @@ class PredictionWidget extends StatelessWidget {
     return Column(
       children: <Widget>[
         Row(
-          mainAxisAlignment: MainAxis
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+ 
