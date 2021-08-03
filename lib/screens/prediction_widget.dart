@@ -62,4 +62,6 @@ class PredictionWidget extends StatelessWidget {
           children: <Widget>[
             for (var i = 0; i < 5; i++) _numberWidget(i, styles[i])
           ],
+        ),
+        Row(
  
