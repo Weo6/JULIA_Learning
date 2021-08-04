@@ -64,4 +64,4 @@ class PredictionWidget extends StatelessWidget {
           ],
         ),
         Row(
- 
+          mainAxisAlignment: MainAxis
