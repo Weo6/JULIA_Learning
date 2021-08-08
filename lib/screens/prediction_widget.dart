@@ -69,4 +69,7 @@ class PredictionWidget extends StatelessWidget {
             for (var i = 5; i < 10; i++) _numberWidget(i, styles[i])
           ],
         )
- 
+      ],
+    );
+  }
+}
