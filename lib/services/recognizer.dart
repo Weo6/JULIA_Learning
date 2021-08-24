@@ -6,4 +6,4 @@ import 'package:tflite/tflite.dart';
 
 final _canvasCullRect = Rect.fromPoints(
   Offset(0, 0),
-  Offset(Constan
+  Offset(Constants.imageSize, Constants.ima
