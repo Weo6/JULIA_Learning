@@ -9,4 +9,5 @@ final _canvasCullRect = Rect.fromPoints(
   Offset(Constants.imageSize, Constants.imageSize),
 );
 
-final _whitePaint = Pai
+final _whitePaint = Paint()
+  ..strokeCap = StrokeCap.rou
