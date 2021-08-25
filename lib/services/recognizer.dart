@@ -6,4 +6,7 @@ import 'package:tflite/tflite.dart';
 
 final _canvasCullRect = Rect.fromPoints(
   Offset(0, 0),
-  Offset(Constants.imageSize, Constants.ima
+  Offset(Constants.imageSize, Constants.imageSize),
+);
+
+final _whitePaint = Pai
