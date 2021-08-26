@@ -12,4 +12,4 @@ final _canvasCullRect = Rect.fromPoints(
 final _whitePaint = Paint()
   ..strokeCap = StrokeCap.round
   ..color = Colors.white
-  .
+  ..strokeWidth = Constants.
