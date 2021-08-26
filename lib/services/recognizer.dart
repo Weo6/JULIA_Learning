@@ -10,4 +10,6 @@ final _canvasCullRect = Rect.fromPoints(
 );
 
 final _whitePaint = Paint()
-  ..strokeCap = StrokeCap.rou
+  ..strokeCap = StrokeCap.round
+  ..color = Colors.white
+  .
