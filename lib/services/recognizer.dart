@@ -14,4 +14,7 @@ final _whitePaint = Paint()
   ..color = Colors.white
   ..strokeWidth = Constants.strokeWidth;
 
-final _bgPaint 
+final _bgPaint = Paint()
+  ..color = Colors.black;
+
+clas
