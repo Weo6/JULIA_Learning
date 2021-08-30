@@ -17,4 +17,5 @@ final _whitePaint = Paint()
 final _bgPaint = Paint()
   ..color = Colors.black;
 
-clas
+class Recognizer {
+  Future loadM
