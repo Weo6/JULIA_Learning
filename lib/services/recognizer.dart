@@ -18,4 +18,7 @@ final _bgPaint = Paint()
   ..color = Colors.black;
 
 class Recognizer {
-  Future loadM
+  Future loadModel() {
+    Tflite.close();
+
+  
