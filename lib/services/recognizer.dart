@@ -21,4 +21,4 @@ class Recognizer {
   Future loadModel() {
     Tflite.close();
 
-  
+    return Tflite.loadModel(
