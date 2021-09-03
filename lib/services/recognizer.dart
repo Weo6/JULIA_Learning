@@ -22,3 +22,4 @@ class Recognizer {
     Tflite.close();
 
     return Tflite.loadModel(
+      model: "assets/m
