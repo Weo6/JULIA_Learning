@@ -27,4 +27,5 @@ class Recognizer {
     );
   }
 
-  d
+  dispose() {
+    Tflite.close(
