@@ -28,4 +28,7 @@ class Recognizer {
   }
 
   dispose() {
-    Tflite.close(
+    Tflite.close();
+  }
+
+  Future<Uint8List> pre
