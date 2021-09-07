@@ -31,4 +31,4 @@ class Recognizer {
     Tflite.close();
   }
 
-  Future<Uint8List> pre
+  Future<Uint8List> previewImage(List<Offset> 
