@@ -31,4 +31,5 @@ class Recognizer {
     Tflite.close();
   }
 
-  Future<Uint8List> previewImage(List<Offset> 
+  Future<Uint8List> previewImage(List<Offset> points) async {
+    final pict
