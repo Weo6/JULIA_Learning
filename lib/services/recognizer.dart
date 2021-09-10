@@ -33,4 +33,4 @@ class Recognizer {
 
   Future<Uint8List> previewImage(List<Offset> points) async {
     final picture = _pointsToPicture(points);
-    final
+    final image = await 
