@@ -34,4 +34,5 @@ class Recognizer {
   Future<Uint8List> previewImage(List<Offset> points) async {
     final picture = _pointsToPicture(points);
     final image = await picture.toImage(Constants.mnistImageSize, Constants.mnistImageSize);
-    var pngBytes = await image.toByt
+    var pngBytes = await image.toByteData(format: ImageByteFormat.png);
+
