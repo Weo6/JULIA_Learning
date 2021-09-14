@@ -36,4 +36,7 @@ class Recognizer {
     final image = await picture.toImage(Constants.mnistImageSize, Constants.mnistImageSize);
     var pngBytes = await image.toByteData(format: ImageByteFormat.png);
 
-    return pngBytes.buffer.asUint8List
+    return pngBytes.buffer.asUint8List();
+  }
+
+  Future recognize(L
