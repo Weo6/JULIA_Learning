@@ -39,4 +39,4 @@ class Recognizer {
     return pngBytes.buffer.asUint8List();
   }
 
-  Future recognize(L
+  Future recognize(List<Offset> points) as
