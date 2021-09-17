@@ -39,4 +39,5 @@ class Recognizer {
     return pngBytes.buffer.asUint8List();
   }
 
-  Future recognize(List<Offset> points) as
+  Future recognize(List<Offset> points) async {
+    final picture = _point
