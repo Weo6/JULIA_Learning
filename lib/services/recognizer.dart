@@ -40,4 +40,5 @@ class Recognizer {
   }
 
   Future recognize(List<Offset> points) async {
-    final picture = _point
+    final picture = _pointsToPicture(points);
+    Ui
