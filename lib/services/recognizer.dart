@@ -41,4 +41,5 @@ class Recognizer {
 
   Future recognize(List<Offset> points) async {
     final picture = _pointsToPicture(points);
-    Uint8List bytes = await _
+    Uint8List bytes = await _imageToByteListUint8(
+        
