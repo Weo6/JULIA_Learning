@@ -42,4 +42,5 @@ class Recognizer {
   Future recognize(List<Offset> points) async {
     final picture = _pointsToPicture(points);
     Uint8List bytes = await _imageToByteListUint8(
-        picture, Constants.mnistImageSiz
+        picture, Constants.mnistImageSize);
+    return _predict(bytes);
