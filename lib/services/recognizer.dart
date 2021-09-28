@@ -44,3 +44,6 @@ class Recognizer {
     Uint8List bytes = await _imageToByteListUint8(
         picture, Constants.mnistImageSize);
     return _predict(bytes);
+  }
+
+  Future _pr
