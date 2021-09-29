@@ -46,4 +46,5 @@ class Recognizer {
     return _predict(bytes);
   }
 
-  Future _pr
+  Future _predict(Uint8List bytes) {
+    return T
