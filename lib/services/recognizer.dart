@@ -47,4 +47,4 @@ class Recognizer {
   }
 
   Future _predict(Uint8List bytes) {
-    return T
+    return Tflite.runModelOnBinary(b
