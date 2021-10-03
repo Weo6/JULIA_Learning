@@ -50,4 +50,4 @@ class Recognizer {
     return Tflite.runModelOnBinary(binary: bytes);
   }
 
-  Future<Uint8List> _imageToByteListUint8(Pictur
+  Future<Uint8List> _imageToByteListUint8(Picture pic, int size) async 
