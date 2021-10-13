@@ -53,4 +53,5 @@ class Recognizer {
   Future<Uint8List> _imageToByteListUint8(Picture pic, int size) async {
     final img = await pic.toImage(size, size);
     final imgBytes = await img.toByteData();
-    final resultBytes = Float32List(size * 
+    final resultBytes = Float32List(size * size);
+    final buffer = Float32List.view(r
