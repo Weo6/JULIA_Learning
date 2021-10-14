@@ -54,4 +54,6 @@ class Recognizer {
     final img = await pic.toImage(size, size);
     final imgBytes = await img.toByteData();
     final resultBytes = Float32List(size * size);
-    final buffer = Float32List.view(r
+    final buffer = Float32List.view(resultBytes.buffer);
+
+    int in
