@@ -56,4 +56,6 @@ class Recognizer {
     final resultBytes = Float32List(size * size);
     final buffer = Float32List.view(resultBytes.buffer);
 
-    int in
+    int index = 0;
+
+    for (int i = 
