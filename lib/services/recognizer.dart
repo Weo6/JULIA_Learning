@@ -58,4 +58,5 @@ class Recognizer {
 
     int index = 0;
 
-    for (int i = 0; i < imgBytes.lengthInB
+    for (int i = 0; i < imgBytes.lengthInBytes; i += 4) {
+      
