@@ -59,4 +59,4 @@ class Recognizer {
     int index = 0;
 
     for (int i = 0; i < imgBytes.lengthInBytes; i += 4) {
-      
+      final r = imgBytes.getUint8(i)
