@@ -62,4 +62,5 @@ class Recognizer {
       final r = imgBytes.getUint8(i);
       final g = imgBytes.getUint8(i + 1);
       final b = imgBytes.getUint8(i + 2);
-      buffer[index++] = (r + 
+      buffer[index++] = (r + g + b) / 3.0 / 255.0;
+ 
