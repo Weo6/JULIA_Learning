@@ -65,4 +65,7 @@ class Recognizer {
       buffer[index++] = (r + g + b) / 3.0 / 255.0;
     }
 
-    return resultBytes.buffer.a
+    return resultBytes.buffer.asUint8List();
+  }
+
+  Picture 
