@@ -68,4 +68,4 @@ class Recognizer {
     return resultBytes.buffer.asUint8List();
   }
 
-  Picture 
+  Picture _pointsToPicture(List<Offset> points) {
