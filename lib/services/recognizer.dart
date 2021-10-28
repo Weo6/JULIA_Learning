@@ -69,4 +69,5 @@ class Recognizer {
   }
 
   Picture _pointsToPicture(List<Offset> points) {
-    final recorder = PictureRe
+    final recorder = PictureRecorder();
+    final canvas 
