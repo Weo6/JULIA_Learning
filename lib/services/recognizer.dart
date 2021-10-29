@@ -71,3 +71,4 @@ class Recognizer {
   Picture _pointsToPicture(List<Offset> points) {
     final recorder = PictureRecorder();
     final canvas = Canvas(recorder, _canvasCullRect)
+      ..scale(Constants.mnistIma
