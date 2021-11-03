@@ -73,4 +73,5 @@ class Recognizer {
     final canvas = Canvas(recorder, _canvasCullRect)
       ..scale(Constants.mnistImageSize / Constants.canvasSize);
 
-    canvas.
+    canvas.drawRect(
+        Rect.fromLT
