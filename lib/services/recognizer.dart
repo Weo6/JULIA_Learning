@@ -74,4 +74,5 @@ class Recognizer {
       ..scale(Constants.mnistImageSize / Constants.canvasSize);
 
     canvas.drawRect(
-        Rect.fromLTWH(0, 0, Constants.imageSize, Cons
+        Rect.fromLTWH(0, 0, Constants.imageSize, Constants.imageSize),
+        _bgP
