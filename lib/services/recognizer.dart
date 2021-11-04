@@ -75,4 +75,6 @@ class Recognizer {
 
     canvas.drawRect(
         Rect.fromLTWH(0, 0, Constants.imageSize, Constants.imageSize),
-        _bgP
+        _bgPaint);
+
+    for (int i =
