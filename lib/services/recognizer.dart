@@ -77,4 +77,5 @@ class Recognizer {
         Rect.fromLTWH(0, 0, Constants.imageSize, Constants.imageSize),
         _bgPaint);
 
-    for (int i = 0; i < points.length -
+    for (int i = 0; i < points.length - 1; i++) {
+      if (points[i] != 
