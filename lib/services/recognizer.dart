@@ -81,3 +81,6 @@ class Recognizer {
       if (points[i] != null && points[i + 1] != null) {
         canvas.drawLine(points[i], points[i + 1], _whitePaint);
       }
+    }
+
+    return recorde
