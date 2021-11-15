@@ -83,4 +83,6 @@ class Recognizer {
       }
     }
 
-    return recorde
+    return recorder.endRecording();
+  }
+}
