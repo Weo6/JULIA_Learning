@@ -7,3 +7,4 @@ class Constants {
   static int mnistImageSize = 28;
 
   static double strokeWidth = 8;
+}
