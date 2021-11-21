@@ -2,4 +2,6 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   archive:
-    dependency: transiti
+    dependency: transitive
+    description:
+      n
