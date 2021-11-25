@@ -9,4 +9,5 @@ packages:
     source: hosted
     version: "2.0.13"
   args:
-    dep
+    dependency: transitive
+    de
