@@ -14,4 +14,6 @@ packages:
       name: args
       url: "https://pub.dartlang.org"
     source: hosted
-    v
+    version: "1.6.0"
+  async:
+ 
