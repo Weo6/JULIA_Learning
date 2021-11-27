@@ -12,4 +12,6 @@ packages:
     dependency: transitive
     description:
       name: args
-      url: "https://pub.dartl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    v
