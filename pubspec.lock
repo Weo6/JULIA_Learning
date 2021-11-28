@@ -16,4 +16,4 @@ packages:
     source: hosted
     version: "1.6.0"
   async:
- 
+    dependency: transitiv
