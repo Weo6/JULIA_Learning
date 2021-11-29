@@ -18,4 +18,5 @@ packages:
   async:
     dependency: transitive
     description:
-      nam
+      name: async
+      url: "https://p
