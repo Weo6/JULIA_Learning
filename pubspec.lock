@@ -19,4 +19,5 @@ packages:
     dependency: transitive
     description:
       name: async
-      url: "https://p
+      url: "https://pub.dartlang.org"
+    source:
