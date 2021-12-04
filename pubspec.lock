@@ -23,4 +23,5 @@ packages:
     source: hosted
     version: "2.4.1"
   boolean_selector:
-    dependency
+    dependency: transitive
+    descrip
