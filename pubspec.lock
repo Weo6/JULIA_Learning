@@ -24,4 +24,5 @@ packages:
     version: "2.4.1"
   boolean_selector:
     dependency: transitive
-    descrip
+    description:
+      name: boolean_selecto
