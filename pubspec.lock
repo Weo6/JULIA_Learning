@@ -25,4 +25,5 @@ packages:
   boolean_selector:
     dependency: transitive
     description:
-      name: boolean_selecto
+      name: boolean_selector
+      url: "https://pub.dartlang
