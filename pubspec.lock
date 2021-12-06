@@ -30,4 +30,5 @@ packages:
     source: hosted
     version: "2.0.0"
   charcode:
-    d
+    dependency: transitive
+    descript
