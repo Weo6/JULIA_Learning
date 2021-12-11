@@ -33,4 +33,6 @@ packages:
     dependency: transitive
     description:
       name: charcode
-      url: "https://pub.dartlang.
+      url: "https://pub.dartlang.org"
+    source: hosted
+    vers
