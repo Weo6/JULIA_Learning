@@ -37,4 +37,6 @@ packages:
     source: hosted
     version: "1.1.3"
   collection:
-    dependency: transiti
+    dependency: transitive
+    description:
+      name: col
