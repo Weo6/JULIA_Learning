@@ -39,4 +39,5 @@ packages:
   collection:
     dependency: transitive
     description:
-      name: col
+      name: collection
+      url: "https://pub.dartlang.
