@@ -44,4 +44,4 @@ packages:
     source: hosted
     version: "1.14.12"
   convert:
-    dep
+    dependency: transit
