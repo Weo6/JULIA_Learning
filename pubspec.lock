@@ -44,4 +44,6 @@ packages:
     source: hosted
     version: "1.14.12"
   convert:
-    dependency: transit
+    dependency: transitive
+    description:
+      name: conve
