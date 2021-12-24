@@ -46,4 +46,5 @@ packages:
   convert:
     dependency: transitive
     description:
-      name: conve
+      name: convert
+      url: "https://pub.da
