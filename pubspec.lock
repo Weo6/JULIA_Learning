@@ -54,4 +54,5 @@ packages:
     dependency: transitive
     description:
       name: crypto
-      url: "https://pub.d
+      url: "https://pub.dartlang.org"
+    source: 
