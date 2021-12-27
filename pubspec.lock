@@ -53,4 +53,5 @@ packages:
   crypto:
     dependency: transitive
     description:
-      na
+      name: crypto
+      url: "https://pub.d
