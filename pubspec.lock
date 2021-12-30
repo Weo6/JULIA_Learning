@@ -55,4 +55,6 @@ packages:
     description:
       name: crypto
       url: "https://pub.dartlang.org"
-    source: 
+    source: hosted
+    version: "2.1.4"
+  c
