@@ -59,4 +59,5 @@ packages:
     version: "2.1.4"
   cupertino_icons:
     dependency: "direct main"
-    de
+    description:
+      na
