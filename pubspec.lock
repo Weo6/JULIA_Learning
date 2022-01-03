@@ -60,4 +60,5 @@ packages:
   cupertino_icons:
     dependency: "direct main"
     description:
-      na
+      name: cupertino_icons
+      url: "https://pub.d
