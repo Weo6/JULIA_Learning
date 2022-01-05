@@ -65,4 +65,5 @@ packages:
     source: hosted
     version: "0.1.3"
   flutter:
-    d
+    dependency: "direct main"
+    descr
