@@ -71,4 +71,6 @@ packages:
     version: "0.0.0"
   flutter_test:
     dependency: "direct dev"
-    description: flutte
+    description: flutter
+    source: sdk
+    version: "0
