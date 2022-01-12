@@ -73,4 +73,6 @@ packages:
     dependency: "direct dev"
     description: flutter
     source: sdk
-    version: "0
+    version: "0.0.0"
+  image:
+    dependen
