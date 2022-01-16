@@ -76,4 +76,6 @@ packages:
     version: "0.0.0"
   image:
     dependency: transitive
-    descripti
+    description:
+      name: image
+      u
