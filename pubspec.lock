@@ -85,4 +85,6 @@ packages:
     dependency: transitive
     description:
       name: matcher
-      url: "https://pu
+      url: "https://pub.dartlang.org"
+    source: hosted
+ 
