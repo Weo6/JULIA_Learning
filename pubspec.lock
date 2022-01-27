@@ -88,4 +88,5 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.6"
-  m
+  meta:
+    dependency: tra
