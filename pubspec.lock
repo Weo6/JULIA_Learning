@@ -89,4 +89,5 @@ packages:
     source: hosted
     version: "0.12.6"
   meta:
-    dependency: tra
+    dependency: transitive
+    description:
