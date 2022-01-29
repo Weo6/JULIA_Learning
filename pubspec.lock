@@ -92,4 +92,5 @@ packages:
     dependency: transitive
     description:
       name: meta
-      url: "https:/
+      url: "https://pub.dartlang.org"
+    source:
