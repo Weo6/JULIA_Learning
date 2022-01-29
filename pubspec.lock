@@ -91,3 +91,5 @@ packages:
   meta:
     dependency: transitive
     description:
+      name: meta
+      url: "https:/
