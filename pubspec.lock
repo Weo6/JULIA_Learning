@@ -98,4 +98,5 @@ packages:
   path:
     dependency: transitive
     description:
-      nam
+      name: path
+      url: "https://pub
