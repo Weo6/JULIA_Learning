@@ -99,4 +99,5 @@ packages:
     dependency: transitive
     description:
       name: path
-      url: "https://pub
+      url: "https://pub.dartlang.org"
+    source: host
