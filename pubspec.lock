@@ -100,4 +100,6 @@ packages:
     description:
       name: path
       url: "https://pub.dartlang.org"
-    source: host
+    source: hosted
+    version: "1.6.4"
+  petitparser:
