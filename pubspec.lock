@@ -103,3 +103,5 @@ packages:
     source: hosted
     version: "1.6.4"
   petitparser:
+    dependency: transitive
+    d
