@@ -104,4 +104,5 @@ packages:
     version: "1.6.4"
   petitparser:
     dependency: transitive
-    d
+    description:
+      name: p
