@@ -105,4 +105,5 @@ packages:
   petitparser:
     dependency: transitive
     description:
-      name: p
+      name: petitparser
+      url: "https://p
