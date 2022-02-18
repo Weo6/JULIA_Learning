@@ -106,4 +106,5 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      url: "https://p
+      url: "https://pub.dartlang.org"
+    source:
