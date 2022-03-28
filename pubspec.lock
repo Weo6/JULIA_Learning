@@ -113,4 +113,5 @@ packages:
     dependency: transitive
     description:
       name: quiver
-      ur
+      url: "https://pub.dartlang.org"
+    so
