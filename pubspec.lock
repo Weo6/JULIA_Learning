@@ -114,4 +114,5 @@ packages:
     description:
       name: quiver
       url: "https://pub.dartlang.org"
-    so
+    source: hosted
+    version: 
