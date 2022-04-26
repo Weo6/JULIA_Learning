@@ -122,4 +122,5 @@ packages:
     source: sdk
     version: "0.0.99"
   source_span:
-    dependen
+    dependency: transitive
+    description:
