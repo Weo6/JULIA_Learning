@@ -127,4 +127,6 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7
+    version: "1.7.0"
+  stack_trace:
+    depende
