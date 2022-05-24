@@ -129,4 +129,5 @@ packages:
     source: hosted
     version: "1.7.0"
   stack_trace:
-    depende
+    dependency: transitive
+    descrip
