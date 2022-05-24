@@ -126,4 +126,5 @@ packages:
     description:
       name: source_span
       url: "https://pub.dartlang.org"
-    source: 
+    source: hosted
+    version: "1.7
