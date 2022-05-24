@@ -130,4 +130,6 @@ packages:
     version: "1.7.0"
   stack_trace:
     dependency: transitive
-    descrip
+    description:
+      name: stack_trace
+  
