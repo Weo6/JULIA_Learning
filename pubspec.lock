@@ -132,4 +132,5 @@ packages:
     dependency: transitive
     description:
       name: stack_trace
-  
+      url: "https://pub.dartlang.org"
+    sou
