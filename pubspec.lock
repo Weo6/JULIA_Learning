@@ -133,4 +133,5 @@ packages:
     description:
       name: stack_trace
       url: "https://pub.dartlang.org"
-    sou
+    source: hosted
+    version: "1.9
