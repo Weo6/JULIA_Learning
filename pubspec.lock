@@ -146,4 +146,5 @@ packages:
     dependency: transitive
     description:
       name: string_scanner
-      url: "https:
+      url: "https://pub.dartlang.org"
+    source: 
