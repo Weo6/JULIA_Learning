@@ -137,4 +137,6 @@ packages:
     version: "1.9.3"
   stream_channel:
     dependency: transitive
-    desc
+    description:
+      name: stream_channel
+   
