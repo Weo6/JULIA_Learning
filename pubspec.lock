@@ -145,4 +145,5 @@ packages:
   string_scanner:
     dependency: transitive
     description:
-      name: 
+      name: string_scanner
+      url: "https:
