@@ -141,4 +141,5 @@ packages:
       name: stream_channel
       url: "https://pub.dartlang.org"
     source: hosted
-   
+    version: "2.0.0"
+  string_scanner
