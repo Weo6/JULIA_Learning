@@ -136,4 +136,5 @@ packages:
     source: hosted
     version: "1.9.3"
   stream_channel:
-    
+    dependency: transitive
+    desc
