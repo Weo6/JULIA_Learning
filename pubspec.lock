@@ -147,4 +147,5 @@ packages:
     description:
       name: string_scanner
       url: "https://pub.dartlang.org"
-    source: 
+    source: hosted
+    version: "1.0.5
