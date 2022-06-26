@@ -152,4 +152,5 @@ packages:
   term_glyph:
     dependency: transitive
     description:
-      name: te
+      name: term_glyph
+      url: "htt
