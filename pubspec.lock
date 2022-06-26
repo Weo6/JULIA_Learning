@@ -154,4 +154,5 @@ packages:
     description:
       name: term_glyph
       url: "https://pub.dartlang.org"
-   
+    source: hosted
+    version: "1.
