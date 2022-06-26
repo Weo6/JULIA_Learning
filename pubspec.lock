@@ -148,4 +148,6 @@ packages:
       name: string_scanner
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.5
+    version: "1.0.5"
+  term_glyph:
+    de
