@@ -153,4 +153,5 @@ packages:
     dependency: transitive
     description:
       name: term_glyph
-      url: "htt
+      url: "https://pub.dartlang.org"
+   
