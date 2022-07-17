@@ -162,4 +162,6 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    versio
+    version: "0.2.15"
+  tflite:
+   
