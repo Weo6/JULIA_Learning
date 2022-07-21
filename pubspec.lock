@@ -166,4 +166,5 @@ packages:
   tflite:
     dependency: "direct main"
     description:
-      name: 
+      name: tflite
+      url: "https:/
