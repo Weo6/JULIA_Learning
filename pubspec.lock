@@ -164,4 +164,6 @@ packages:
     source: hosted
     version: "0.2.15"
   tflite:
-    dependency: "direct main
+    dependency: "direct main"
+    description:
+      name: 
