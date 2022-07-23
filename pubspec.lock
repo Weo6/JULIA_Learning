@@ -168,4 +168,5 @@ packages:
     description:
       name: tflite
       url: "https://pub.dartlang.org"
-    source:
+    source: hosted
+    version: "1.0.
