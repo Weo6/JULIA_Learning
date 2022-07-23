@@ -167,4 +167,5 @@ packages:
     dependency: "direct main"
     description:
       name: tflite
-      url: "https:/
+      url: "https://pub.dartlang.org"
+    source:
