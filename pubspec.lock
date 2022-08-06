@@ -180,4 +180,5 @@ packages:
   vector_math:
     dependency: transitive
     description:
-     
+      name: vector_math
+      url:
