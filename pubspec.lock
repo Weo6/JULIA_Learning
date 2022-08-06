@@ -181,4 +181,5 @@ packages:
     dependency: transitive
     description:
       name: vector_math
-      url:
+      url: "https://pub.dartlang.org"
+    
