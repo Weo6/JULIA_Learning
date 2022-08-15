@@ -185,4 +185,6 @@ packages:
     source: hosted
     version: "2.0.8"
   xml:
-    dependency: 
+    dependency: transitive
+    description:
+ 
