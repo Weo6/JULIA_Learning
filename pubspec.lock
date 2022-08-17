@@ -187,4 +187,5 @@ packages:
   xml:
     dependency: transitive
     description:
- 
+      name: xml
+      url
