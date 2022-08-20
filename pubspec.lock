@@ -188,4 +188,5 @@ packages:
     dependency: transitive
     description:
       name: xml
-      url
+      url: "https://pub.dartlang.org"
+  
