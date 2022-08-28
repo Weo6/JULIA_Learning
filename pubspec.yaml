@@ -1,4 +1,5 @@
 name: mnistdigitrecognizer
 description: A new Flutter application.
 
-# The following line prevents the package from being accidentally 
+# The following line prevents the package from being accidentally published to
+# pub.dev using `p
