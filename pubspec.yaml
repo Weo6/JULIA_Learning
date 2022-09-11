@@ -5,4 +5,4 @@ description: A new Flutter application.
 # pub.dev using `pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-# The following defines 
+# The following defines the version and build
