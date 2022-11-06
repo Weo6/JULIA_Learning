@@ -31,4 +31,5 @@ dependencies:
   tflite: ^1.0.6
 
 dev_dependencies:
-  flutter_tes
+  flutter_test:
+    sdk: flutt
