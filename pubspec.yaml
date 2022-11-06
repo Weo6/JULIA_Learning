@@ -32,4 +32,6 @@ dependencies:
 
 dev_dependencies:
   flutter_test:
-    sdk: flutt
+    sdk: flutter
+
+# For information on the generi
