@@ -40,4 +40,5 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
 
-  # The following line ensures that the Materia
+  # The following line ensures that the Material Icons font is
+  # included w
