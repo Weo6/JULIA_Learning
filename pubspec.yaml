@@ -49,4 +49,5 @@ flutter:
   assets:
     - assets/
 
-  # An image asset can refer to one or more resolution-specific "variants", se
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets
