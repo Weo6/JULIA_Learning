@@ -62,4 +62,5 @@ flutter:
   # example:
   # fonts:
   #   - family: Schyler
-  #   
+  #     fonts:
+  #       - asset:
