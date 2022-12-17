@@ -63,4 +63,5 @@ flutter:
   # fonts:
   #   - family: Schyler
   #     fonts:
-  #       - asset:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #      
