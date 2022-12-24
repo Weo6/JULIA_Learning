@@ -65,4 +65,5 @@ flutter:
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
-  #         style: ital
+  #         style: italic
+  #   - family: Trajan P
