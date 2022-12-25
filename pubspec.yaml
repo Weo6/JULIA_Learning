@@ -68,4 +68,5 @@ flutter:
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
-  #       - asset: fonts/Traj
+  #       - asset: fonts/TrajanPro.ttf
+  #       - 
