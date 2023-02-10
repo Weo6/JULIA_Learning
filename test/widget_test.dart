@@ -11,4 +11,5 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mnistdigitrecognizer/main.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async 
+  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
+    // Build our app and trigg
