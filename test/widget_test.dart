@@ -13,4 +13,6 @@ import 'package:mnistdigitrecognizer/main.dart';
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWi
+    await tester.pumpWidget(MyApp());
+
+    // Verify that our c
