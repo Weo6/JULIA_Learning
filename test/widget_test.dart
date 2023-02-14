@@ -16,4 +16,4 @@ void main() {
     await tester.pumpWidget(MyApp());
 
     // Verify that our counter starts at 0.
-    expe
+    expect(find.text('0'), findsO
